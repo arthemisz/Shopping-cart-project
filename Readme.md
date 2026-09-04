@@ -1,7 +1,7 @@
 # Shopping-App-Built as part of NEXUS Project 
 
 # React based 
-# deployed link: https://shopping-pixel-cart.vercel.app/
+ deployed link: https://shopping-pixel-cart.vercel.app/
 
   ### 📁 Directory Tree Overview
     New proje/
